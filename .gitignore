@@ -1,0 +1,14 @@
+/build*/
+/out/
+/dist/
+/.vs/
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.zip
+*.log
+*.csv
+*.dmp
